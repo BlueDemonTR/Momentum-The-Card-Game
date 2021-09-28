@@ -4,8 +4,8 @@ Welcome to the github page of Momentum the Card Game, here you can propose ideas
 
 # Social Links
 
-Discord: 
-Website: -/in making-/ 
-Momentum Twitter: 
-Developer Twitter: 
-Youtube Channel:
+Discord: <br>
+Website: -/in making/- <br> 
+Momentum Twitter: <br>
+Developer Twitter: <br>
+Youtube Channel: <br>
